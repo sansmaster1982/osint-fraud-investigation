@@ -1,0 +1,21 @@
+# Local case material and credentials must never enter this repository.
+cases/
+investigations/
+evidence/
+letters/
+manifests/
+INVESTIGATION_LOG.md
+REPORT.md
+ioc.csv
+evidence-index.csv
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials*
+secrets*
+__pycache__/
+*.py[cod]
+.venv/
+*.log
